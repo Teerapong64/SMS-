@@ -1,0 +1,22 @@
+
+pkg upgrade && pkg update
+
+apt upgrade && apt update
+
+pkg install python
+
+pkg install python2
+
+termux-setup-storage
+
+termux-setup-storage
+
+cd /sdcard/Download/3961_spam/spam
+
+apt install python3-pip
+
+pip install requests
+
+cp -f smsall.py/$HOME
+
+python3 smsall.py

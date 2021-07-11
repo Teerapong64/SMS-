@@ -11,8 +11,7 @@ num = int(input("normo:"))print ('''
 ( (/\ )__(( () )\__ \  )(   )__(    ___    )(( (_  ) _)
  \__/(_)(_)\__/ (___/ (__) (_)(_)  (___)  (__)\__)(___)    By : TH2-02xx Or ICESUS (SPAM SMS AIS V.1 BETA TEST)''')
 
-numbers = int(input("เบอร์เป้าหมาย : "))
-count = int(input("จำนวนรอบ : "))
+
 
 print ("++ attack start now! ++\n\n\n------------log attack------------")
 

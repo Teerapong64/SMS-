@@ -5,7 +5,7 @@ import requests,json,time,threading
 session = requests.Session()
 number = input("number:")
 numbers = input("number:")
-num = int(input("normo:"))print ('''
+num = int(input("normo:"))
   __  _  _  __   ___  ____  _  _           __  __  ___ 
  / _)( )( )/  \ / __)(_  _)( )( )         (  )/ _)(  _)
 ( (/\ )__(( () )\__ \  )(   )__(    ___    )(( (_  ) _)
@@ -13,7 +13,7 @@ num = int(input("normo:"))print ('''
 
 
 
-print ("++ attack start now! ++\n\n\n------------log attack------------")
+("++ attack start now! ++\n\n\n------------log attack------------")
 
 
 class SMS():
